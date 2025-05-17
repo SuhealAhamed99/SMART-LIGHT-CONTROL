@@ -29,6 +29,7 @@ The ESP32 is connected to an LED on GPIO2. A virtual button in the Blynk app (as
 
 ✦Wokwi Simulator (for testing without hardware)
 
+
 ⚙️ Features
 ✔LED control via smartphone app
 
@@ -38,10 +39,12 @@ The ESP32 is connected to an LED on GPIO2. A virtual button in the Blynk app (as
 
 ✔Simulatable on Wokwi for testing
 
+
 🔌 Connections
 LED anode → GPIO2 (through 220Ω resistor)
 
 LED cathode → GND
+
 
 📱 Blynk Configuration
 ➤Template Name: Smart Light Control Task 1
@@ -49,6 +52,7 @@ LED cathode → GND
 ➤Virtual Pin Used: V0
 
 ➤Button Widget Mode: Switch (ON/OFF)
+
 
 🖼️ Output Preview
 ★You can include the following in your GitHub repo:
