@@ -18,7 +18,10 @@ This IoT project demonstrates how to control an LED remotely using the Blynk IoT
 📲 Overview
 The ESP32 is connected to an LED on GPIO2. A virtual button in the Blynk app (assigned to Virtual Pin V0) sends a digital signal to control the LED. When the button is pressed, the ESP32 receives the command over Wi-Fi and turns the LED ON or OFF accordingly. The system also prints the LED status ("ON" or "OFF") to the Serial Monitor for debugging.
 
+
+
 🧰 Components Used
+
  ✦ESP32 Dev Board
 
 ✦LED
@@ -30,7 +33,9 @@ The ESP32 is connected to an LED on GPIO2. A virtual button in the Blynk app (as
 ✦Wokwi Simulator (for testing without hardware)
 
 
+
 ⚙️ Features
+
 ✔LED control via smartphone app
 
 ✔Real-time status updates in Serial Monitor
@@ -40,13 +45,17 @@ The ESP32 is connected to an LED on GPIO2. A virtual button in the Blynk app (as
 ✔Simulatable on Wokwi for testing
 
 
+
 🔌 Connections
+
 LED anode → GPIO2 (through 220Ω resistor)
 
 LED cathode → GND
 
 
+
 📱 Blynk Configuration
+
 ➤Template Name: Smart Light Control Task 1
 
 ➤Virtual Pin Used: V0
@@ -54,7 +63,9 @@ LED cathode → GND
 ➤Button Widget Mode: Switch (ON/OFF)
 
 
+
 🖼️ Output Preview
+
 ★You can include the following in your GitHub repo:
 
 ★Circuit diagram (Wokwi screenshot)
