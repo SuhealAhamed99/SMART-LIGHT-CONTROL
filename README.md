@@ -66,4 +66,20 @@ LED cathode → GND
 
 📸 OUTPUT ( SCREENSHOTS)
 
+![Image](https://github.com/user-attachments/assets/dc783618-60dc-431c-b5f0-d5806d36d38f)
+
+![Image](https://github.com/user-attachments/assets/07964ee2-2fe1-47e0-a44b-5cb2d0002ba9)
+
+![Image](https://github.com/user-attachments/assets/e1032b6c-bab0-43de-bb3a-7a82c3ac143d)
+
+![Image](https://github.com/user-attachments/assets/fde2a51d-9494-44db-83f3-260ba1dee1f5)
+
+![Image](https://github.com/user-attachments/assets/816ad843-b851-4446-8a44-34992ee68b14)
+
+![Image](https://github.com/user-attachments/assets/c70b824d-0ece-4577-a9ad-e899eee589cb)
+
+![Image](https://github.com/user-attachments/assets/aa1aa4f2-4222-4807-b299-28d075da794e)
+
+![Image](https://github.com/user-attachments/assets/12ce6376-668a-436b-9039-adcc2e3a5ced)
+
 
